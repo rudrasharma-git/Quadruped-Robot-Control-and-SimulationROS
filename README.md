@@ -1,12 +1,6 @@
 # Qdog_ros2
 QDog is a quadruped robot which is fully based on ROS 2 and Micro-ROS. 
 
-### References:
-- [`HyperDog` | IEEE SMC-2022](https://ieeexplore.ieee.org/document/9945526)
-- [HyperDog Demo](https://youtu.be/Dx1U2J1avO0)
-- [IEEE SMC-2023 presentation](https://youtu.be/mFgaS3f5-pw)
-- [HyperDog Playlist](https://www.youtube.com/watch?v=1CIkmu7lIlY&list=PL8ZSjYfd0W-1BoGKr-xrBt6LwaWn_EVaN)
-
 ## Contains
 This repository contains ros2 packages for quadruped robot Q-Dog.
 packages are :
@@ -54,5 +48,10 @@ packages are :
             - subscriber : `/Qdog_jointController/commands`
             - publisher : '/gazebo_joint_controller/commands`
 
+### References:
+- [`HyperDog` | IEEE SMC-2022](https://ieeexplore.ieee.org/document/9945526)
+- [HyperDog Demo](https://youtu.be/Dx1U2J1avO0)
+- [IEEE SMC-2023 presentation](https://youtu.be/mFgaS3f5-pw)
+- [HyperDog Playlist](https://www.youtube.com/watch?v=1CIkmu7lIlY&list=PL8ZSjYfd0W-1BoGKr-xrBt6LwaWn_EVaN)
 
 
